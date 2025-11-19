@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{ double div,x,y;
+cout<<"enter the first number that you want to divide\n";
+cin>>x;
+cout<<"enter the divider\n";
+cin>>y;
+div=x/y;
+cout<<"the divion of numbers is    = "<<div;
+}
